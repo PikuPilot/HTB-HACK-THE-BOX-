@@ -6,8 +6,9 @@ MY WORK ON HTB SO FAR....
 
 
 # COMPLETION OF FLAG COMMAND CHALLENGE
-<img width="1366" height="768" alt="flagcapture for c1" src="https://github.com/user-attachments/assets/0be61540-6f59-4397-96e4-675ee138c0a5" />
+<img width="1046" height="1102" alt="flag command" src="https://github.com/user-attachments/assets/c8a44376-9ff7-4f84-ae8d-eba2823f5656" />
 
 
 # COMPLETION OF BRUTUS SHERLOCK
-<img width="1366" height="768" alt="all flags capture for s1" src="https://github.com/user-attachments/assets/1f7c2ca2-6771-4a0e-8ce0-5369d082f7f8" />
+<img width="531" height="580" alt="brutus" src="https://github.com/user-attachments/assets/ba77d4b3-4442-4f5a-bfa0-511db752248d" />
+
