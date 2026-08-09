@@ -2,7 +2,7 @@
 MY WORK ON HTB SO FAR....
 
 # COMPLETION OF ABDUCTED MACHINE
-<img width="1678" height="937" alt="abducted" src="https://github.com/user-attachments/assets/5797033f-dd07-4626-b013-a30e04faa078" />
+<img width="1365" height="763" alt="solved abducted machine from HTB-medium difficulty" src="https://github.com/user-attachments/assets/5d5bc2e0-89bb-413b-8677-8a01fb96a133" />
 
 
 # COMPLETION OF FLAG COMMAND CHALLENGE
