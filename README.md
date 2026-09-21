@@ -5,7 +5,7 @@ MY WORK ON HTB SO FAR....
 <img width="1365" height="470" alt="solved abducted machine from HTB-medium difficulty" src="https://github.com/user-attachments/assets/08b593a8-9a1a-42a6-9223-1ba482e29fb9" />
 
 
-# COMPLETION OF ABDUCTED MACHINE
+# COMPLETION OF CAP MACHINE
 <img width="1899" height="828" alt="cap machine complete" src="https://github.com/user-attachments/assets/8008164a-fd03-4c36-8026-b6f8c1fac9e7" />
 
 
